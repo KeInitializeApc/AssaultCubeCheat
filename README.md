@@ -1,8 +1,6 @@
 
 Credits
 
-*	Discord: Network#1000
-
 *	Program Used To Grab The Addresses > Cheat Engine 7.4 | https://www.cheatengine.org/
 	
 *	Getting The Base > https://stackoverflow.com/questions/14467229/get-base-address-of-process
